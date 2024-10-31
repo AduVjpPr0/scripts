@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         [01006BD0095F4000] Shin Megami Tensei V
+// @name         [010069C01AB82000] Shin Megami Tensei V: Vengeance
 // @version      1.0.2
-// @author       [Kalleo]
+// @author       [Oracle]
 // @description  Yuzu
 // * Atlus
 // *
